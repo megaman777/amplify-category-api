@@ -14,7 +14,7 @@
     "@types/node": "^20.0.0",
     "@types/react": "18.2.42",
     "@types/react-dom": "^18.0.6",
-    "aws-amplify": "^4.3.30",
+    "aws-amplify": "^5.3.15",
     "cross-env": "^7.0.3",
     "cypress": "^10.4.0",
     "hjson": "^3.2.2",
